@@ -1,11 +1,8 @@
 # ADS-599-Capstone
-USD MS ADS 599: Capstone Project for Roger Qiu & Shailja Somani (Summer 2024)
+USD MS ADS 599: Capstone Project by Shailja Somani & Roger Qiu
 
 ## Project Title
 Study of Stomach Cancer Mortality Rates across U.S. Counties
-
-## Project Status
-Completed
 
 ## Installation
 To use, install, run, or edit this project on your machine, follow these steps:
